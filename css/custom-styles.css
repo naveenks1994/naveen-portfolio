@@ -1,0 +1,26 @@
+.header-text{
+    color: #212529 !important;
+}
+.education-container{
+    justify-content: center;
+    align-items: center;
+}
+.iit-image{
+    filter: invert(100%) sepia(100%) saturate(100%) hue-rotate(100deg) brightness(200%) contrast(200%);
+}
+.align-center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.experience-heading{
+    color: #000000;
+}
+.card-body-length{
+    min-height:382px;
+}
+.card-body-length-m{
+    min-height:176px;
+}
+.align-center{
+    align-items: center;
+}
